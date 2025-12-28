@@ -1,0 +1,13 @@
+# executables
+*.exe
+
+# build artifacts
+build/
+*.o
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
